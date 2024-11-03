@@ -1,0 +1,22 @@
+html {
+    /* font-size: 20px; */
+    font-size: 100% /* default: 16px*/
+}
+.box {
+    width: 50%;
+    height: 100px;
+    background-color: red;
+}
+.box2 {
+    width: 15vw;
+    height: 20vh;
+    background-color: blue;
+}
+h1 {
+    font-size:40px
+}
+h2 {
+    font-size: 4rem;
+}
+/* vw: vidth, vh-height */
+/*viewport*/
